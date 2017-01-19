@@ -1,0 +1,29 @@
+body {
+    font-family: "Helvetica Neue",
+    Helvetica,
+    Microsoft Yahei,
+    Hiragino Sans GB,
+    WenQuanYi Micro Hei,
+    sans-serif;
+}
+
+ul {
+    list-style: none;
+    margin-bottom: 0;
+}
+
+a:hover {
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+}
+a:-webkit-any-link,
+a:-moz-any-link,
+
+{
+     text-decoration: none;
+ }
+img {
+    vertical-align: top;
+}
